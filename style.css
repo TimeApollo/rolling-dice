@@ -1,0 +1,21 @@
+.bar-graph{
+    display: flex;
+    background-color: green;
+    width: 40px;
+    margin-right: 1px;
+}
+
+.table{
+    display: flex;
+    flex-wrap: wrap;
+    height: 200px;
+    align-items: flex-end;
+}
+.table-results{
+    display: flex;
+    box-sizing: border box;
+    width: 41px;
+}
+.break{
+    width: 100%;
+}
